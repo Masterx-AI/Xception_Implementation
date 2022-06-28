@@ -1,5 +1,7 @@
 ## Xception Model Description:
 
+![](https://raw.githubusercontent.com/Masterx-AI/Xception_Implementation/main/xception.jpg)
+
 onvolutional Neural Networks (CNN) have come a long way, from the LeNet-style, AlexNet, VGG models, which used simple stacks of convolutional layers for feature extraction and max-pooling layers for spatial sub-sampling, stacked one after the other, to Inception and ResNet networks which use skip connections and multiple convolutional and max-pooling blocks in each layer. Since its introduction, one of the best networks in computer vision has been the Inception network. The Inception model uses a stack of modules, each module containing a bunch of feature extractors, which allow them to learn richer representations with fewer parameters.
 
 Xception paper — https://arxiv.org/abs/1610.02357
